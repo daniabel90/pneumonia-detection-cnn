@@ -1,0 +1,26 @@
+# Dataset images (too large for GitHub)
+data/*.jpg
+data/*.jpeg
+data/*.png
+data/chest_xray/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights (upload to Google Drive instead)
+*.h5
+*.keras
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
