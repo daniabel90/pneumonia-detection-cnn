@@ -1,5 +1,5 @@
 #  PneumoCNN4 — Pediatric Pneumonia Detection from Chest X-Rays
-
+![Results Overview](results/figures/08_final_overview.png)
 > Deep learning system for automated classification of pediatric chest X-rays (Normal vs. Pneumonia), using 8 pre-trained CNN models with systematic comparison across dropout configurations and dataset splits.
 
 **Master's graduation project** | Université Saad Dahleb de Blida, Algeria | June 2025  
